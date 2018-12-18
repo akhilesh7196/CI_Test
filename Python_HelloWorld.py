@@ -4,4 +4,4 @@
 
 print ("Hello World")
 print ("Welcome to Python World...!!!\n")
-print ("New Edit For New Pull Request...!!!")
+print "New Edit For New Pull Request...!!!"
